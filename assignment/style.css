@@ -1,0 +1,21 @@
+header{
+  background-color: skyblue;
+}
+h2{
+  background-color: slateblue;
+  color: white;
+  text-align: center;
+}
+h3{
+  background-color: slateblue;
+  color: red;
+  text-align: center;
+}
+img{
+  width: 500px
+}
+.info{
+  border: 5px solid;
+  width: fit-content;
+  margin: auto;
+}
